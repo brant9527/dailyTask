@@ -3,11 +3,13 @@ personal daily task
 
 ## 1. asch
   1.1   run asch project and publish dapp in local //done
+  
   2.1   read the sdk,try to understand api for use
  
 
 ## 2. mpvue
   2.1 build the demo //done
+  
   2.2 design standard frame
 
 ## 3. node server
